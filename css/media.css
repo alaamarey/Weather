@@ -7,4 +7,25 @@
   ul {
     width: fit-content;
   }
+
+  .navbar ul {
+    background-color: #323544;
+    text-align: center;
+    width: 100%;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+
+  .navbar ul li {
+    padding-block: 15px;
+  }
+
+  .navbar ul li:not(:last-child) {
+    border-bottom: 1px solid rgba(128, 128, 128, 0.326);
+  }
+
+  .nav-link {
+    border: 0 !important;
+    border-radius: 0 !important;
+  }
 }
