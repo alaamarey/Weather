@@ -42,8 +42,8 @@ Users can search for any city and instantly view live temperature, humidity, win
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the repository
 ```bash
+ 1️⃣ Clone the repository
      git clone https://github.com/YourU
  2️⃣ Navigate into the folder
      cd weather-app
