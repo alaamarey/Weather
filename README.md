@@ -1,0 +1,45 @@
+# 🌦️ Real-Time Weather App
+
+A sleek and responsive **Weather Application** built using **HTML**, **CSS**, and **JavaScript**, that fetches real-time weather data from a public **Weather API**.  
+Users can search for any city and instantly view live temperature, humidity, wind speed, and weather conditions 🌍.
+
+---
+
+## ✨ Features
+
+- 🔍 **Real-time search** — instantly fetches weather data as you type  
+- 🌡️ Displays **temperature, humidity, and wind speed**  
+- ☁️ Fetches live weather information using a **Weather API**  
+- 💻 Built with **pure JavaScript (AJAX / Fetch API)**  
+- 🎨 Clean, modern, and **fully responsive UI**
+
+---
+
+## 🧠 Technologies Used
+
+| Technology | Purpose |
+|-------------|----------|
+| 💻 **HTML5** | Structure of the application |
+| 🎨 **CSS3** | Styling and layout |
+| ⚡ **JavaScript (ES6)** | Logic and interactivity |
+| 🌐 **OpenWeatherMap API** | Provides real-time weather data |
+
+---
+
+## 🧩 How It Works
+
+1. The user types a **city name** in the search bar 🏙️  
+2. An **AJAX / Fetch** call is made to the [OpenWeatherMap API](https://www.weatherapi.com/) 
+3. The app dynamically updates the weather information without reloading the page  
+
+---
+
+## 📸 Preview
+
+![Weather App Screenshot](./weather.jpg)
+
+---
+
+## 🚀 Getting Started
+
+###
