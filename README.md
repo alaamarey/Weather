@@ -58,21 +58,3 @@ Users can search for any city and instantly view live temperature, humidity, win
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
