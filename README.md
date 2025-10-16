@@ -34,11 +34,17 @@ Users can search for any city and instantly view live temperature, humidity, win
 
 ---
 
+
+
 ## 📸 Preview
 
 ![Weather App Screenshot](./weather.jpg)
 
 ---
+
+## 🚀 Live Demo
+
+🔗 [View Website](https://weather-zeta-jade-74.vercel.app/)  
 
 ## 🚀 Getting Started
 
