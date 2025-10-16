@@ -29,22 +29,20 @@ Users can search for any city and instantly view live temperature, humidity, win
 ## 🧩 How It Works
 
 1. The user types a **city name** in the search bar 🏙️  
-2. An **AJAX / Fetch** call is made to the [OpenWeatherMap API](https://www.weatherapi.com/) 
+2. An **AJAX / Fetch** call is made to the [OpenWeatherMap API]
 3. The app dynamically updates the weather information without reloading the page  
 
 ---
 
+## 🚀 Live Demo
+🔗 [View Website](https://weather-zeta-jade-74.vercel.app/)  
 
 
 ## 📸 Preview
-
 ![Weather App Screenshot](./weather.jpg)
 
 ---
 
-## 🚀 Live Demo
-
-🔗 [View Website](https://weather-zeta-jade-74.vercel.app/)  
 
 ## 🚀 Getting Started
 
